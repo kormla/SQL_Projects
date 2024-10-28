@@ -1,4 +1,4 @@
-# creating a table for authors
+#creating a table for authors
 
 CREATE TABLE authors (
     id INTEGER PRIMARY KEY AUTO_INCREMENT,
